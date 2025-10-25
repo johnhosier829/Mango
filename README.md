@@ -25,8 +25,8 @@ Make sure you have the following installed:
 **Clone the repository:**
 
 ```bash
-   git clone https://github.com/your-username/mango_app.git
-   cd mango_app
+   git clone https://github.com/your-username/Mango.git
+   cd Mango
 ```
 **Download the pre-trained TensorFlow model**:
 
